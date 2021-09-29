@@ -15,11 +15,13 @@ print('-*-' * 5)
 for numero in range(10):
     print(numero)
 print('-*-' * 5)
+
 #                start    stop    step
 for num in range(1,       17,     2):
     print(num)
 print('-*-' * 5)
-#                start    stop    step
+
+#                    start     stop     step
 for num_inv in range(20,       10,     -1):
     print(num_inv)
 print('-*-' * 5)
